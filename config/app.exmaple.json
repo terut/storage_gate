@@ -1,0 +1,5 @@
+{
+  "buckets": [
+    { "name": "sample_bucket", "token": "abcdef" }
+  ]
+}
